@@ -32,3 +32,33 @@ https://colab.research.google.com/drive/1sT-MTtJBfPaFhYk_RtUM9JB003HyUgBg?hl=ru
 Коллинг прошёл. Всё обсчитано.
 
 ### 4. Работа с M-bias plot
+В результате были полученны графики (расположенные ниже по убыванию процента CpG-метилирования). Наименьшая доля  метелирования наблюдается у образца icm (22-24%), а у Epiblast (77-78%) - наибольшая. Образец 8_cell (42-45%) показал средние значения. 
+
+ICM:
+
+![image](https://user-images.githubusercontent.com/93160309/154551449-e425b7c2-4b1e-4171-82d7-a59553aa8840.png)
+
+![image](https://user-images.githubusercontent.com/93160309/154551514-373f6464-5b9f-47f1-a515-3ba4d402a545.png)
+
+Epiblast:
+
+![image](https://user-images.githubusercontent.com/93160309/154551953-7761e7cc-42b7-41e2-bdde-10ea1c24d709.png)
+
+![image](https://user-images.githubusercontent.com/93160309/154552165-d6223bda-79f8-4b06-8e66-18947bb25a09.png)
+
+8cell:
+
+![image](https://user-images.githubusercontent.com/93160309/154552239-0a515114-ddb8-493c-bbda-1f1b037e9958.png)
+
+![image](https://user-images.githubusercontent.com/93160309/154552277-22a844df-e5ae-45f7-8b14-04456d6e8f33.png)
+
+
+
+
+
+
+
+
+
+
+
