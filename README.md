@@ -25,3 +25,10 @@ https://colab.research.google.com/drive/1sT-MTtJBfPaFhYk_RtUM9JB003HyUgBg?hl=ru
 ![image](https://user-images.githubusercontent.com/93160309/154546134-2b38a203-489f-472c-b0e8-6dd1699607e5.png)
 
 Дедупликацию делал одновременную. Скрипт в блокноте. 
+
+![image](https://user-images.githubusercontent.com/93160309/154546861-8d974526-5e88-49f6-b372-0d98d9363d71.png)
+
+### 3. Метелирование цитозинов
+Коллинг прошёл. Всё обсчитано.
+
+### 4. Работа с M-bias plot
