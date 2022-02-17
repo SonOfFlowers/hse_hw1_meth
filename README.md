@@ -66,9 +66,19 @@ Epiblast: Имеет большую часть пиков в высокопро�
 
 ![image](https://user-images.githubusercontent.com/93160309/154555132-6e22233c-af2d-4b72-90ea-374ccc731206.png)
 
+Пример скрипта для визуализации гистограмм:
 
+![image](https://user-images.githubusercontent.com/93160309/154555533-043ccef9-a2dd-4e9a-8104-d8f82a549b73.png)
 
+### 6. Визуализация уровеней метелирования и покрытия 
 
+Метилирование:
+
+![image_meth](https://user-images.githubusercontent.com/93160309/154555867-a45ef8da-8281-4d50-9ea1-4bd9f54b66f2.png)
+
+Покрытие:
+
+![image_cov ](https://user-images.githubusercontent.com/93160309/154556075-f4ec7c99-4bb8-4e8f-ae54-a1aabb8b9ef6.png)
 
 
 
