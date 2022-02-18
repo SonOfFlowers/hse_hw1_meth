@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/1sT-MTtJBfPaFhYk_RtUM9JB003HyUgBg?hl=ru
 
 ### 2. Дедупликация
 
-![image](https://user-images.githubusercontent.com/93160309/154546134-2b38a203-489f-472c-b0e8-6dd1699607e5.png)
+![image](https://user-images.githubusercontent.com/93160309/154705909-492b4b72-1d7a-406c-8f49-cf362d34a316.png)
 
 Дедупликацию делал одновременную. Скрипт в блокноте. 
 
