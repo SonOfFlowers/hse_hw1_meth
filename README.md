@@ -4,7 +4,7 @@
 ### Анализ QC прочтений
 https://colab.research.google.com/drive/14wsBi2EBHxo7xqxMqm37T7CINXbXhw_k#scrollTo=LclK2iCTDdue
 ### Метилирование:
-https://colab.research.google.com/drive/1sT-MTtJBfPaFhYk_RtUM9JB003HyUgBg?hl=ru
+https://colab.research.google.com/drive/1sT-MTtJBfPaFhYk_RtUM9JB003HyUgBg?hl=ru#scrollTo=NuWmsAveOCPj
 
 ## Анализ QC прочтений
 ![image](https://user-images.githubusercontent.com/93160309/154544203-d7a99223-65ee-4b30-8ee7-99ea220161bf.png)
